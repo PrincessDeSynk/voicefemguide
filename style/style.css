@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Exo Bold";
+    src: url(Exo-Bold.otf)
+format("opentype");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Exo Bold";
+    text-align: center;
+}
